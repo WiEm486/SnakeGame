@@ -1,5 +1,19 @@
 body{
+    margin: 50px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    
+    background:url(img/1_PDQznFmgLBjBRWgtFEP98A.jpg  );
+    background-size: cover;
+}
+.bor{
+    border-width:15px;
+    border-style: double;
+    border-color: rgb(255,140,0);
+}
+h1{
+    font-family: 'Baruiki-Regular';
+    color: rgb(190, 114, 20);
+  
+    font-size: 50px;
+     
 }
